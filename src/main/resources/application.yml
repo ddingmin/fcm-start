@@ -1,0 +1,3 @@
+fcm:
+  project-id: ${FCM_PROJECT_ID}
+  key: ${FCM_KEY}
