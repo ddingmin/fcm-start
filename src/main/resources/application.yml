@@ -1,3 +1,3 @@
 fcm:
   project-id: ${FCM_PROJECT_ID}
-  key: ${FCM_KEY}
+  key: ${FCM_KEY} # Base64 ???? json ?? ??
